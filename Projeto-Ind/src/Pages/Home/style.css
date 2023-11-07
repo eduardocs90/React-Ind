@@ -1,0 +1,18 @@
+.home {
+  background-color: #a9f9b6;
+  color: #020811;
+  text-align: center;
+  height: 400px;
+  border-top: 2px solid #8aad00;
+  border-bottom: 2px solid #00ad1d;
+  padding: 10px 0;
+  justify-content: space-between;
+  align-items: center;
+  font-size: xx-large;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+p {
+  margin-left: 20px;
+  margin-right: 20px;
+}

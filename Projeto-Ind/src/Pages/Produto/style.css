@@ -1,0 +1,59 @@
+.produtos {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.produtos p {
+  font-size: 25px;
+  margin: 0 150px;
+}
+.body {
+  background-color: #aef9a9;
+  color: #010b18;
+  padding: 10px 0;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 25px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  text-align: center;
+  height: auto;
+  border-top: 2px solid #004aad;
+}
+
+img {
+  max-width: 125px;
+  height: auto;
+  border: 2px solid #004aad;
+}
+
+.adicionarProduto {
+  background-color: #b9f9a9;
+  color: #020a14;
+  padding: 10px 0;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 25px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  text-align: center;
+  height: auto;
+  border-bottom: 2px solid #090c11;
+}
+
+.excluirProduto {
+  background-color: #c2f9a9;
+  color: #020b17;
+  padding: 10px 0;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 25px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  text-align: center;
+  height: auto;
+  border-bottom: 2px solid #004aad;
+}
+.hr {
+  height: 3px;
+  background-color: #004aad;
+  margin: 50px 0 5px 0;
+}
